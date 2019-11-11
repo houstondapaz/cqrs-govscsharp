@@ -3,8 +3,8 @@ package client
 import (
 	"testing"
 
-	client "github.com/cqrs-govscsharp/golang/client/domain"
-	events "github.com/cqrs-govscsharp/golang/domain/events"
+	client "github.com/houstondapaz/cqrs-govscsharp/golang/client/domain"
+	events "github.com/houstondapaz/cqrs-govscsharp/golang/domain/events"
 	"github.com/google/uuid"
 	"github.com/stretchr/testify/mock"
 )

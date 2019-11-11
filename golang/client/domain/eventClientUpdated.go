@@ -1,7 +1,7 @@
 package client
 
 import (
-	events "github.com/cqrs-govscsharp/golang/domain/events"
+	events "github.com/houstondapaz/cqrs-govscsharp/golang/domain/events"
 )
 
 type ClientUpdated struct {

@@ -1,6 +1,6 @@
 FROM golang:1.12.4 as builder
 
-WORKDIR $GOPATH/src/github.com/cqrs-govscsharp/golang/
+WORKDIR $GOPATH/src/github.com/houstondapaz/cqrs-govscsharp/golang/
 COPY . .
 
 RUN go get -d -v ./...

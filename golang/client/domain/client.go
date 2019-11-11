@@ -5,7 +5,7 @@ import (
 
 	"github.com/google/uuid"
 
-	"github.com/cqrs-govscsharp/golang/domain"
+	"github.com/houstondapaz/cqrs-govscsharp/golang/domain"
 )
 
 type Client struct {

@@ -3,7 +3,7 @@ package redis
 import (
 	"time"
 
-	config "github.com/cqrs-govscsharp/golang/config"
+	config "github.com/houstondapaz/cqrs-govscsharp/golang/config"
 	"github.com/go-redis/redis"
 )
 

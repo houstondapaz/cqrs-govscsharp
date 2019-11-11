@@ -5,10 +5,10 @@ import (
 	"fmt"
 	"time"
 
-	binary "github.com/cqrs-govscsharp/golang/binary"
-	clientDomain "github.com/cqrs-govscsharp/golang/client/domain"
-	domainCommands "github.com/cqrs-govscsharp/golang/domain/commands"
-	domainQueries "github.com/cqrs-govscsharp/golang/domain/queries"
+	binary "github.com/houstondapaz/cqrs-govscsharp/golang/binary"
+	clientDomain "github.com/houstondapaz/cqrs-govscsharp/golang/client/domain"
+	domainCommands "github.com/houstondapaz/cqrs-govscsharp/golang/domain/commands"
+	domainQueries "github.com/houstondapaz/cqrs-govscsharp/golang/domain/queries"
 	"github.com/golang/protobuf/ptypes/empty"
 	"github.com/google/uuid"
 )

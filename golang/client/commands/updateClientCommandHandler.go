@@ -3,9 +3,9 @@ package client
 import (
 	"fmt"
 
-	client "github.com/cqrs-govscsharp/golang/client/domain"
-	commands "github.com/cqrs-govscsharp/golang/domain/commands"
-	events "github.com/cqrs-govscsharp/golang/domain/events"
+	client "github.com/houstondapaz/cqrs-govscsharp/golang/client/domain"
+	commands "github.com/houstondapaz/cqrs-govscsharp/golang/domain/commands"
+	events "github.com/houstondapaz/cqrs-govscsharp/golang/domain/events"
 )
 
 type UpdateClientCommandHandler struct {

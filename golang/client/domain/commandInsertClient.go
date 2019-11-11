@@ -1,7 +1,7 @@
 package client
 
 import (
-	commands "github.com/cqrs-govscsharp/golang/domain/commands"
+	commands "github.com/houstondapaz/cqrs-govscsharp/golang/domain/commands"
 )
 
 type InsertClientCommand struct {

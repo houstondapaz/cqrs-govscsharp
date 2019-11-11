@@ -1,13 +1,13 @@
 package client
 
 import (
-	commands "github.com/cqrs-govscsharp/golang/client/commands"
-	events "github.com/cqrs-govscsharp/golang/client/events"
-	queries "github.com/cqrs-govscsharp/golang/client/queries"
-	storage "github.com/cqrs-govscsharp/golang/client/storage"
-	commandDomain "github.com/cqrs-govscsharp/golang/domain/commands"
-	eventDomain "github.com/cqrs-govscsharp/golang/domain/events"
-	queryDomain "github.com/cqrs-govscsharp/golang/domain/queries"
+	commands "github.com/houstondapaz/cqrs-govscsharp/golang/client/commands"
+	events "github.com/houstondapaz/cqrs-govscsharp/golang/client/events"
+	queries "github.com/houstondapaz/cqrs-govscsharp/golang/client/queries"
+	storage "github.com/houstondapaz/cqrs-govscsharp/golang/client/storage"
+	commandDomain "github.com/houstondapaz/cqrs-govscsharp/golang/domain/commands"
+	eventDomain "github.com/houstondapaz/cqrs-govscsharp/golang/domain/events"
+	queryDomain "github.com/houstondapaz/cqrs-govscsharp/golang/domain/queries"
 	"go.uber.org/dig"
 )
 

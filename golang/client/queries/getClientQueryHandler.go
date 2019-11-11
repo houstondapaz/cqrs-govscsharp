@@ -1,8 +1,8 @@
 package client
 
 import (
-	client "github.com/cqrs-govscsharp/golang/client/domain"
-	queries "github.com/cqrs-govscsharp/golang/domain/queries"
+	client "github.com/houstondapaz/cqrs-govscsharp/golang/client/domain"
+	queries "github.com/houstondapaz/cqrs-govscsharp/golang/domain/queries"
 )
 
 type GetClientQueryHandler struct {

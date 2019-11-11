@@ -3,7 +3,7 @@ package client
 import (
 	"fmt"
 
-	eventDomain "github.com/cqrs-govscsharp/golang/domain/events"
+	eventDomain "github.com/houstondapaz/cqrs-govscsharp/golang/domain/events"
 )
 
 type QueueEvents struct {

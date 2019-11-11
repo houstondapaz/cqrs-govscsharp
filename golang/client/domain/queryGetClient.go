@@ -1,7 +1,7 @@
 package client
 
 import (
-	queries "github.com/cqrs-govscsharp/golang/domain/queries"
+	queries "github.com/houstondapaz/cqrs-govscsharp/golang/domain/queries"
 	"github.com/google/uuid"
 )
 
