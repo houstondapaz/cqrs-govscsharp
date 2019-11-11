@@ -1,0 +1,12 @@
+{
+  "proto": "./client.proto",
+  "call": "Users.UserService.GetUser",
+  "total": 100,
+  "concurrency": 10,
+  "data": {
+      "Id": "0c21e45c-a9a9-4d63-b65b-481bf8f2e96e"
+  },
+  "metadata": {
+  },
+  "host": "0.0.0.0:5002"
+}

@@ -1,0 +1,8 @@
+C:\dev\projects\pocs\cqrs-csharp\CQRSService.Client\bin\Debug\netstandard2.0\CQRSService.Client.deps.json
+C:\dev\projects\pocs\cqrs-csharp\CQRSService.Client\bin\Debug\netstandard2.0\CQRSService.Client.dll
+C:\dev\projects\pocs\cqrs-csharp\CQRSService.Client\bin\Debug\netstandard2.0\CQRSService.Client.pdb
+C:\dev\projects\pocs\cqrs-csharp\CQRSService.Client\obj\Debug\netstandard2.0\CQRSService.Client.csprojAssemblyReference.cache
+C:\dev\projects\pocs\cqrs-csharp\CQRSService.Client\obj\Debug\netstandard2.0\CQRSService.Client.AssemblyInfoInputs.cache
+C:\dev\projects\pocs\cqrs-csharp\CQRSService.Client\obj\Debug\netstandard2.0\CQRSService.Client.AssemblyInfo.cs
+C:\dev\projects\pocs\cqrs-csharp\CQRSService.Client\obj\Debug\netstandard2.0\CQRSService.Client.dll
+C:\dev\projects\pocs\cqrs-csharp\CQRSService.Client\obj\Debug\netstandard2.0\CQRSService.Client.pdb

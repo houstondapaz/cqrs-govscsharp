@@ -1,0 +1,15 @@
+C:\dev\projects\pocs\cqrs-csharp\CQRSService.Client\bin\Debug\netcoreapp3.0\NUnit3.TestAdapter.dll
+C:\dev\projects\pocs\cqrs-csharp\CQRSService.Client\bin\Debug\netcoreapp3.0\NUnit3.TestAdapter.pdb
+C:\dev\projects\pocs\cqrs-csharp\CQRSService.Client\bin\Debug\netcoreapp3.0\nunit.engine.dll
+C:\dev\projects\pocs\cqrs-csharp\CQRSService.Client\bin\Debug\netcoreapp3.0\nunit.engine.api.dll
+C:\dev\projects\pocs\cqrs-csharp\CQRSService.Client\bin\Debug\netcoreapp3.0\CQRSService.Client.deps.json
+C:\dev\projects\pocs\cqrs-csharp\CQRSService.Client\bin\Debug\netcoreapp3.0\CQRSService.Client.dll
+C:\dev\projects\pocs\cqrs-csharp\CQRSService.Client\bin\Debug\netcoreapp3.0\CQRSService.Client.pdb
+C:\dev\projects\pocs\cqrs-csharp\CQRSService.Client\bin\Debug\netcoreapp3.0\CQRSService.Domain.dll
+C:\dev\projects\pocs\cqrs-csharp\CQRSService.Client\bin\Debug\netcoreapp3.0\CQRSService.Domain.pdb
+C:\dev\projects\pocs\cqrs-csharp\CQRSService.Client\obj\Debug\netcoreapp3.0\CQRSService.Client.csprojAssemblyReference.cache
+C:\dev\projects\pocs\cqrs-csharp\CQRSService.Client\obj\Debug\netcoreapp3.0\CQRSService.Client.AssemblyInfoInputs.cache
+C:\dev\projects\pocs\cqrs-csharp\CQRSService.Client\obj\Debug\netcoreapp3.0\CQRSService.Client.AssemblyInfo.cs
+C:\dev\projects\pocs\cqrs-csharp\CQRSService.Client\obj\Debug\netcoreapp3.0\CQRSService.Client.csproj.CopyComplete
+C:\dev\projects\pocs\cqrs-csharp\CQRSService.Client\obj\Debug\netcoreapp3.0\CQRSService.Client.dll
+C:\dev\projects\pocs\cqrs-csharp\CQRSService.Client\obj\Debug\netcoreapp3.0\CQRSService.Client.pdb

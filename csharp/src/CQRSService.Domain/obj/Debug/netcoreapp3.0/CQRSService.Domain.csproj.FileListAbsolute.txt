@@ -1,0 +1,7 @@
+C:\dev\projects\pocs\cqrs-csharp\CQRSService.Domain\bin\Debug\netcoreapp3.0\CQRSService.Domain.deps.json
+C:\dev\projects\pocs\cqrs-csharp\CQRSService.Domain\bin\Debug\netcoreapp3.0\CQRSService.Domain.dll
+C:\dev\projects\pocs\cqrs-csharp\CQRSService.Domain\obj\Debug\netcoreapp3.0\CQRSService.Domain.AssemblyInfoInputs.cache
+C:\dev\projects\pocs\cqrs-csharp\CQRSService.Domain\obj\Debug\netcoreapp3.0\CQRSService.Domain.AssemblyInfo.cs
+C:\dev\projects\pocs\cqrs-csharp\CQRSService.Domain\bin\Debug\netcoreapp3.0\CQRSService.Domain.pdb
+C:\dev\projects\pocs\cqrs-csharp\CQRSService.Domain\obj\Debug\netcoreapp3.0\CQRSService.Domain.dll
+C:\dev\projects\pocs\cqrs-csharp\CQRSService.Domain\obj\Debug\netcoreapp3.0\CQRSService.Domain.pdb

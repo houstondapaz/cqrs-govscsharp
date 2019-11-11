@@ -1,0 +1,8 @@
+C:\dev\projects\pocs\cqrs-csharp\CQRSService.Domain\bin\Release\netstandard2.1\CQRSService.Domain.deps.json
+C:\dev\projects\pocs\cqrs-csharp\CQRSService.Domain\bin\Release\netstandard2.1\CQRSService.Domain.dll
+C:\dev\projects\pocs\cqrs-csharp\CQRSService.Domain\bin\Release\netstandard2.1\CQRSService.Domain.pdb
+C:\dev\projects\pocs\cqrs-csharp\CQRSService.Domain\obj\Release\netstandard2.1\CQRSService.Domain.csprojAssemblyReference.cache
+C:\dev\projects\pocs\cqrs-csharp\CQRSService.Domain\obj\Release\netstandard2.1\CQRSService.Domain.AssemblyInfoInputs.cache
+C:\dev\projects\pocs\cqrs-csharp\CQRSService.Domain\obj\Release\netstandard2.1\CQRSService.Domain.AssemblyInfo.cs
+C:\dev\projects\pocs\cqrs-csharp\CQRSService.Domain\obj\Release\netstandard2.1\CQRSService.Domain.dll
+C:\dev\projects\pocs\cqrs-csharp\CQRSService.Domain\obj\Release\netstandard2.1\CQRSService.Domain.pdb

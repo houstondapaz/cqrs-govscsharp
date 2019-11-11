@@ -1,0 +1,27 @@
+syntax = "proto3";
+
+import "google/protobuf/empty.proto";
+option csharp_namespace = "CQRSService.Protos";
+
+package Users;
+
+service UserService {
+    rpc GetUser (GetUserRequest) returns (User);
+    rpc GetUsers (GetUsersRequest) returns (stream User);
+    rpc Add(AddUserRequest) returns(google.protobuf.Empty);
+}
+
+message AddUserRequest {
+  string Name = 1;
+}
+
+message GetUserRequest {
+    string Id = 1;
+}
+
+message GetUsersRequest {}
+
+message User {
+    string Id = 1;
+    string Name = 2;
+}
