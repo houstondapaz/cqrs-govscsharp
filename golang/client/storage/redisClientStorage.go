@@ -6,9 +6,9 @@ import (
 	"strings"
 	"time"
 
-	clientDomain "github.com/houstondapaz/cqrs-govscsharp/golang/client/domain"
 	"github.com/go-redis/redis"
 	"github.com/google/uuid"
+	clientDomain "github.com/houstondapaz/cqrs-govscsharp/golang/client/domain"
 )
 
 const (

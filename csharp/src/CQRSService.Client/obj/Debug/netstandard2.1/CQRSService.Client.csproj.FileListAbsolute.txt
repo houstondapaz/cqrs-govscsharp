@@ -20,3 +20,14 @@ C:\dev\projects\pocs\cqrs-csharp\src\CQRSService.Client\obj\Debug\netstandard2.1
 C:\dev\projects\pocs\cqrs-csharp\src\CQRSService.Client\obj\Debug\netstandard2.1\CQRSService.Client.csproj.CopyComplete
 C:\dev\projects\pocs\cqrs-csharp\src\CQRSService.Client\obj\Debug\netstandard2.1\CQRSService.Client.dll
 C:\dev\projects\pocs\cqrs-csharp\src\CQRSService.Client\obj\Debug\netstandard2.1\CQRSService.Client.pdb
+C:\Users\houst\go\src\github.com\houstondapaz\cqrs-govscsharp\csharp\src\CQRSService.Client\bin\Debug\netstandard2.1\CQRSService.Client.deps.json
+C:\Users\houst\go\src\github.com\houstondapaz\cqrs-govscsharp\csharp\src\CQRSService.Client\bin\Debug\netstandard2.1\CQRSService.Client.dll
+C:\Users\houst\go\src\github.com\houstondapaz\cqrs-govscsharp\csharp\src\CQRSService.Client\bin\Debug\netstandard2.1\CQRSService.Client.pdb
+C:\Users\houst\go\src\github.com\houstondapaz\cqrs-govscsharp\csharp\src\CQRSService.Client\bin\Debug\netstandard2.1\CQRSService.Domain.dll
+C:\Users\houst\go\src\github.com\houstondapaz\cqrs-govscsharp\csharp\src\CQRSService.Client\bin\Debug\netstandard2.1\CQRSService.Domain.pdb
+C:\Users\houst\go\src\github.com\houstondapaz\cqrs-govscsharp\csharp\src\CQRSService.Client\obj\Debug\netstandard2.1\CQRSService.Client.csprojAssemblyReference.cache
+C:\Users\houst\go\src\github.com\houstondapaz\cqrs-govscsharp\csharp\src\CQRSService.Client\obj\Debug\netstandard2.1\CQRSService.Client.AssemblyInfoInputs.cache
+C:\Users\houst\go\src\github.com\houstondapaz\cqrs-govscsharp\csharp\src\CQRSService.Client\obj\Debug\netstandard2.1\CQRSService.Client.AssemblyInfo.cs
+C:\Users\houst\go\src\github.com\houstondapaz\cqrs-govscsharp\csharp\src\CQRSService.Client\obj\Debug\netstandard2.1\CQRSService.Client.csproj.CopyComplete
+C:\Users\houst\go\src\github.com\houstondapaz\cqrs-govscsharp\csharp\src\CQRSService.Client\obj\Debug\netstandard2.1\CQRSService.Client.dll
+C:\Users\houst\go\src\github.com\houstondapaz\cqrs-govscsharp\csharp\src\CQRSService.Client\obj\Debug\netstandard2.1\CQRSService.Client.pdb

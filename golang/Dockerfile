@@ -1,11 +1,13 @@
-FROM golang:1.12.4 as builder
+FROM golang:1.13.4 as builder
+
+# RUN apk add --no-cache gcc libc-dev
 
 WORKDIR $GOPATH/src/github.com/houstondapaz/cqrs-govscsharp/golang/
 COPY . .
 
 RUN go get -d -v ./...
 
-RUN CGO_ENABLED=0 GOOS=linux go build -a -installsuffix cgo -o /go/bin/CQRSService
+RUN CGO_ENABLED=0 GOOS=linux go build -a -o /go/bin/CQRSService
 
 FROM alpine:latest  
 

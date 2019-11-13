@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\projects\\pocs\\cqrs-csharp\\src\\CQRSService.Domain\\CQRSService.Domain.csproj": {}
+    "C:\\Users\\houst\\go\\src\\github.com\\houstondapaz\\cqrs-govscsharp\\csharp\\src\\CQRSService.Domain\\CQRSService.Domain.csproj": {}
   },
   "projects": {
-    "C:\\dev\\projects\\pocs\\cqrs-csharp\\src\\CQRSService.Domain\\CQRSService.Domain.csproj": {
+    "C:\\Users\\houst\\go\\src\\github.com\\houstondapaz\\cqrs-govscsharp\\csharp\\src\\CQRSService.Domain\\CQRSService.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\projects\\pocs\\cqrs-csharp\\src\\CQRSService.Domain\\CQRSService.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\houst\\go\\src\\github.com\\houstondapaz\\cqrs-govscsharp\\csharp\\src\\CQRSService.Domain\\CQRSService.Domain.csproj",
         "projectName": "CQRSService.Domain",
-        "projectPath": "C:\\dev\\projects\\pocs\\cqrs-csharp\\src\\CQRSService.Domain\\CQRSService.Domain.csproj",
+        "projectPath": "C:\\Users\\houst\\go\\src\\github.com\\houstondapaz\\cqrs-govscsharp\\csharp\\src\\CQRSService.Domain\\CQRSService.Domain.csproj",
         "packagesPath": "C:\\Users\\houst\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\projects\\pocs\\cqrs-csharp\\src\\CQRSService.Domain\\obj\\",
+        "outputPath": "C:\\Users\\houst\\go\\src\\github.com\\houstondapaz\\cqrs-govscsharp\\csharp\\src\\CQRSService.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
